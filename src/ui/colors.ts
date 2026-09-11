@@ -1364,7 +1364,7 @@ export const themeDefinitions: readonly ThemeDefinition[] = [
 	{ id: "palenight", name: "Palenight", description: "Material-inspired purple-blue with soft lavender tones", tone: "dark", colors: palenightColors },
 	{ id: "opencode", name: "OpenCode", description: "Charcoal panels with peach, violet, and blue highlights", tone: "dark", colors: opencodeColors },
 	{ id: "cursor", name: "Cursor", description: "Deep charcoal base with Anysphere's signature bright blue accents", tone: "dark", colors: cursorColors },
-	{ id: "solitude", name: "Solitude", description: "Omarchy's restrained monochrome palette with cool gray accents", tone: "dark", colors: solitudeColors },
+	{ id: "solitude", name: "Solitude", description: "Restrained monochrome palette with cool gray accents", tone: "dark", colors: solitudeColors },
 ] as const
 
 const pairedThemeIds: Partial<Record<ThemeId, ThemeId>> = {

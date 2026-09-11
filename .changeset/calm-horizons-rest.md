@@ -2,4 +2,4 @@
 "@kitlangton/ghui": minor
 ---
 
-Add a Solitude theme based on Omarchy's restrained monochrome palette.
+Add a Solitude theme with a restrained monochrome palette and cool gray accents.
